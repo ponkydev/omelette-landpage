@@ -43,7 +43,8 @@
 
       body {
         font-family: var(--outfit);
-        padding: 3rem;
+        padding: 6rem 0;
+        background-color: var(--eggshell);
       }
 
       p, li {
@@ -53,6 +54,10 @@
 
       .section {
         margin: auto;
+        width: 60%;
+        padding: 3rem;
+        background-color: #fff;
+        border-radius: 1rem;
       }
 
       .omelette-img {
@@ -150,7 +155,12 @@
 
       @media screen and (max-width: 400px) {
         body {
-          padding: 2rem;
+          padding: 0;
+        }
+
+        .section {
+          width: 100%;
+          border-radius: 0;
         }
 
         .omelette-img {
