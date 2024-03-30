@@ -23,8 +23,8 @@ I didn't know a recipe landpage was such a practical and funny way to train and 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/pr0g4ng3l/omelette-landpage)
+- Live Site URL: [Add live site URL here](https://pr0g4ng3l.github.io/omelette-landpage/)
 
 ### Built with
 
